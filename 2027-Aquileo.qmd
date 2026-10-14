@@ -1,7 +1,7 @@
 ---
 title: "Technology transfer in the circular economy of plastics in Colombia: Diagnosis and strategies for academia-industry alignment"
 authors: Aquileo Piracoa Hernández
-abstract-title: 'Objectif'
+abstract-title: 'Abstract'
 abstract: "**Version 1**. <br> *Last updated on: {{< meta date >}}.*"
 date: last-modified
 date-format: "[Version 1 — Updated on] MMMM D, YYYY"
@@ -28,9 +28,11 @@ format:
     linkcolor: blue
     urlcolor: blue
     link-citations: true
-    #Kreference-doc: assets/template.docx
+    #reference-doc: assets/template.docx
     prefer-html: true
-#csl: assets/journal-of-cleaner-production.csl
+csl: journal-of-cleaner-production.csl
+bibliography: 
+  - library.bib
 ---
 
 
