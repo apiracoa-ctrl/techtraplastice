@@ -1,0 +1,195 @@
+---
+title: "Technology transfer in the circular economy of plastics in Colombia: Diagnosis and strategies for academia-industry alignment"
+authors: Aquileo Piracoa Hernández
+abstract-title: 'Objectif'
+abstract: "**Version 1**. <br> *Last updated on: {{< meta date >}}.*"
+date: last-modified
+date-format: "[Version 1 — Updated on] MMMM D, YYYY"
+# format:
+#   elsevier-pdf:
+#     journal:
+#       name: Journal Name
+#       formatting: preprint
+#       model: 3p
+#       layout: onecolumn
+# #      cite-style: number
+# #      graphical-abstract: "![](abstract.png)"
+#       highlights:
+#         - Highlight 1
+#         - Highlight 2 
+#         - Highlight 3
+
+format:
+  #html: default
+  docx:
+    toc: false
+    number-sections: false
+    highlight-style: github
+    linkcolor: blue
+    urlcolor: blue
+    link-citations: true
+    #Kreference-doc: assets/template.docx
+    prefer-html: true
+#csl: assets/journal-of-cleaner-production.csl
+---
+
+
+# Introduction (2.5 Pages)
+
+<!-- Plastic Problem -->
+Plastics is a societal paradox and a climate decision [@macreadie2025].
+More than 450 million tonnes of plastics are produced annually [@dokl2024] for applications across sectors such as healthcare [@leissner2019], construction [@kamaruddin2017], automotive [@ravina2023], and particularly in the packaging industry [@tamizhdurai2024]. 
+At the same time, the environmental impact of the linear model of mass production and consumption makes plastic waste a part of the chemical pollution in the planetary boundaries [@oneill2018;@biermann2020], putting in danger the safe operating limits of humanity [@villarrubia-gomez2024].
+In the EU, the packaging sector is the largest contributor to plastic flows, both in terms of consumption and waste generation.
+In 2019, approximately 14.5 Mt of plastic were used for packaging, accounting for 33% of total plastic consumption, while 14.1 Mt of packaging waste were generated, representing 49% of total post-consumer plastic waste [@amadei2023]. 
+Only 38% of the 28.8 Mt of total post-consumer plastic waste generated was separately collected, while approximately 13% was mismanaged [@amadei2023]. 
+Likwewise in the Global South, the situation is more difficult because...
+
+Indeed, the accumulation of microplastics in natural environments [@laskar2019; @thompson2024a] and  the long-term environmental effects of plastic waste remain poorly understood, as plastics do not readily re-enter established biogeochemical cycles [@gontard2022].
+<!-- Centralized approach Problem -->
+Therefore, around 60% of plastic production ends up in landfills or the environment, contributing to negative environmental externality ecological risks, including those associated with marine plastic pollution in the form of plastic litter [@suhaimi2022; @taylor2026; @zhang2025].
+Plastic waste management has traditionally been designed around economies of scale and centralized waste-management systems.
+However, these limitations reveals a wicked problem that goes beyond waste management alternatives [@lerpiniere2025].
+
+
+Although a contested concept [@kirchherr; @corvellec2021;@giampietro2022;@rodl2022a], the notion of circular econmoy concept (CE) has taken political impulse in EU [@rizos2025] and Latin America as a vital framework for rethinking production and consumption patterns. 
+The CE seeks to decouple economic growth from resource consumption by promoting strategies such as reduction, reuse, recycling, and redesign of materials and products [@villarrubia-gomez2026; @villarrubia-gomez2026; @figge2023]. 
+Within the context of plastics, this approach emphasizes the need to close material loops and extend the lifecycle of resources across the entire value chain [@shamsuddoha2024; @schirmeister2022].
+The transition to CE requires more than just improved waste management. 
+It demands a systemic transformation involving all stakeholders to eliminate inefficiencies and capture lost value. 
+Analyzing the plastics value chain (from raw material extraction to production, distribution, consumption, and end-of-life management) reveals multiple points where inefficiencies and value losses occurs. 
+Addressing these inefficiencies requires not only improvements in waste management systems but also systemic transformations involving product design, innovation, and stakeholder coordination. 
+Despite growing global awareness and a robust move toward these kinds of models, recycling rates remain stubbornly low, and many innovative solutions developed within academic ecosystems fail to reach industrial scale (Castelo-Vinueza, 2025).
+Therefore, a value chain perspective is essential to identify opportunities for circularity and to implement effective interventions (Johansen et al., 2022).
+
+
+Main idea to develop in the introduction briefly:
+
+1. **Circular Economy Plastics and tech transfer policy problem in Latin America**:
+     - Ujiyama, S., 2027. Bridging the implementation gap: The need for sector-specific interpretations of circular economy strategies. Resources, Conservation and Recycling 236, 109137. https://doi.org/10.1016/j.resconrec.2026.109137
+
+1. **Enterprises adoption of Circular economy in Latin America**:
+    - Acerbi, F., Taisch, M., 2020. A literature review on circular economy adoption in the manufacturing sector. Journal of Cleaner Production 273, 123086. https://doi.org/10.1016/j.jclepro.2020.123086
+    - Dagiliene, L., Frendzel, M., Sutiene, K., Wnuk-Pel, T., 2020. Wise managers think about circular economy, wiser report and analyze it. Research of environmental reporting practices in EU manufacturing companies. Journal of Cleaner Production 274, 121968. https://doi.org/10.1016/j.jclepro.2020.121968
+
+1. **Tech-Transfer Barriers for the circular economy**
+
+     - Tsai, F.M., Kurrahman, T., Lim, M.K., Sethanan, K., Tseng, M.-L., 2026. Technology transfer challenges in circular supply chain: Insights from expanded absorptive capacity- dynamic capability view. Technology in Society 89, 103513. https://doi.org/10.1016/j.techsoc.2026.103513
+     -  Ollila, S., 2025. In-between identity work: Transcending boundaries in university-industry collaboration. Technovation 139, 103128. https://doi.org/10.1016/j.technovation.2024.103128
+     - Abu Sa’a, E., Asplund, F., 2025. Unpacking social capital in University–Industry Collaborations: Pathways to cross-industry knowledge sharing. Technovation 140, 103160. https://doi.org/10.1016/j.technovation.2024.103160
+     - Bradlow, B.H., Kentikelenis, A., 2024. Globalizing green industrial policy through technology transfers. Nat Sustain 7, 685–687. https://doi.org/10.1038/s41893-024-01336-4
+     - da Silva, V.L., Kovaleski, J.L., Pagani, R.N., 2021. Fundamental elements in Technology Transfer: an in-depth analysis. Technology Analysis & Strategic Management 1–22. https://doi.org/10.1080/09537325.2021.1894328
+     - Lee, H., Miozzo, M., 2024. Beyond complementarity and substitutability? Understanding relational governance and formal contracts in university-industry collaborations for innovation. Technovation 138, 103100. https://doi.org/10.1016/j.technovation.2024.103100
+
+
+<!-- Problem -->
+While technology transfer and circular economy transitions have been extensively investigated in the Global North, empirical research detailing the specific dynamics, mechanisms, and institutional obstacles within Latin America and specifically Colombia remains poor. 
+Specifically, existing literature lacks empirical characterization regarding how macroeconomic and structural environment barriers intersect with organizational maturity across enterprise scales. 
+<!-- Knowledge Gap -->
+Furthermore, there is a knowledge gap regarding operational strategies for university-industry alignment. 
+Specifically, how Technology Transfer Offices can be reconfigured as flexible boundary units and how university capabilities and multi-stakeholder co-creation strategies can de-risk industrial adoption within emerging regional markets.
+
+This study identifies that the transition is hindered by deep-seated economic and structural barriers. 
+For instance, post-consumer recycled (PCR) material is frequently more expensive than virgin resin, and the country lacks a sufficiently integrated collection and sorting infrastructure, especially in remote regions (Lau et al., 2020; OECD, 2022). 
+Furthermore, a climate of mutual distrust complicates the relationship between academia and industry; companies often perceive academic research as "utopian" or too theoretical for daily operational needs, while academics are frequently obstructed by rigid institutional bureaucracy and complex intellectual property rules. 
+Consequently, many technological advancements in sustainable materials and waste valorization remain confined to laboratory prototypes and academic publications rather than becoming viable industrial solutions (Grafström & Aasma, 2021; Rosenboom et al., 2022).
+The main purpose of this paper is to identify the institutional and organizational barriers that hinder effective technology transfer practices between academy and the colombian plastic value chain.
+and to propose alignment strategies that bridge the gap between academic capabilities and industrial needs in the Colombian plastics sector. 
+The research utilizes mixed-methods approach across four distinct phases: a documentary analysis of national regulations, a productive sector diagnosis involving 92 companies, an analysis of the Universidad Nacional’s technical capabilities, and the co-creation of strategies through international workshops. This study provides essential, evidence-based insights to support the development of a more resilient, sustainable, and competitive industrial model in Colombia.
+
+
+Research Questions:
+
+1. What is the baseline regulatory and industrial structure governing the plastics value chain in Colombia, and what is the current state of interactions between the productive sector and academia? 
+2. What are the primary economic, structural, technical, and institutional barriers that hinder regulatory compliance and the adoption of circular economy practices among plastics companies in Colombia? 
+3. What specific technology transfer mechanisms and boundary alignment strategies can effectively align university scientific capabilities with real-world industrial needs?
+
+# Background Literature (3 Pages)
+
+## Circular Economy of plastics in Latin America
+
+**Complete this section with your thesis and see in detail:** 
+
+
+- Rodríguez-Meza, L.R., Romero-Perdomo, F., González-Curbelo, M.Á., 2026. Examining Latin America’s Transition to a Circular Economy for Plastics. Environmental Management 76, 65. https://doi.org/10.1007/s00267-025-02298-9
+
+- van Hoof, B., Aguilar-Hernandez, G.A., 2025. Circular economy policy resilience and robustness in Latin America and the Caribbean. Journal of Cleaner Production 529, 146755. https://doi.org/10.1016/j.jclepro.2025.146755
+
+- Gallego-Schmid, A., Vásquez-Ibarra, L., Guerrero, A.B., Henninger, C.E., Rebolledo-Leiva, R., 2025. Circular economy in a recently transitioned high-income country in Latin America and the Caribbean: Barriers, drivers, strengths, opportunities, key stakeholders and priorities in Chile. Journal of Cleaner Production 486, 144429. https://doi.org/10.1016/j.jclepro.2024.144429
+
+- Rodríguez-Meza, L.R., Romero-Perdomo, F., González-Curbelo, M.Á., 2025. Analyzing Government Plans for the Plastic Value Chain in the Latin American Circular Economy. Circ.Econ.Sust. https://doi.org/10.1007/s43615-025-00558-8
+
+
+- Gallego-Schmid, A., Vásquez-Ibarra, L., Guerrero, A.B., Henninger, C.E., Rebolledo-Leiva, R., 2025. Circular economy in a recently transitioned high-income country in Latin America and the Caribbean: Barriers, drivers, strengths, opportunities, key stakeholders and priorities in Chile. Journal of Cleaner Production 486, 144429. https://doi.org/10.1016/j.jclepro.2024.144429
+- Straub, L., Trotter, P., Onsongo, E., van Vuuren, D., Kirchherr, J., 2026. Diversity of circular economies from Global South evidence. Nat Sustain 1–11. https://doi.org/10.1038/s41893-026-01901-z
+- Van Opstal, W., Pals, E., Sangers, D., 2025. Mapping the prevalence and size of the informal circular economy in an industrialised region. Resources, Conservation and Recycling 218, 108268. https://doi.org/10.1016/j.resconrec.2025.108268
+
+
+
+
+## Tech Transfer in the Circular Economy policy
+
+Technology transfer (TT) serves as a critical enabler of circular economy policy. 
+TT involves the bidirectional flow of knowledge, skills, and technologies between research institutions and the productive sector to enhance competitiveness and foster sustainable innovation (Awasthy et al., 2020; Compagnucci & Spigarelli, 2020). 
+Furthermore, co-creation environments can help to integrate the perspectives of students, researchers, and industry professionals to solve real-world problems.
+
+
+**Complete this section with your thesis and see in detail**: 
+
+- Bradlow, B.H., Kentikelenis, A., 2024. Globalizing green industrial policy through technology transfers. Nat Sustain 7, 685–687. https://doi.org/10.1038/s41893-024-01336-4
+da Silva, V.L., Kovaleski, J.L., Pagani, R.N., 2021. 
+
+- Fundamental elements in Technology Transfer: an in-depth analysis. Technology Analysis & Strategic Management 1–22. https://doi.org/10.1080/09537325.2021.1894328
+
+- Lee, H., Miozzo, M., 2024. Beyond complementarity and substitutability? Understanding relational governance and formal contracts in university-industry collaborations for innovation. Technovation 138, 103100. https://doi.org/10.1016/j.technovation.2024.103100
+
+## Circular economy adoption in Small enterprises
+
+**Complete this section with your thesis and see in detail**: 
+
+- Ren, Q., Albrecht, J., 2023. Toward circular economy: The impact of policy instruments on circular economy innovation for European small medium enterprises. Ecological Economics 207, 107761. https://doi.org/10.1016/j.ecolecon.2023.107761
+
+- Mishra, R., Singh, R.K., Govindan, K., 2022. Barriers to the adoption of circular economy practices in Micro, Small and Medium Enterprises: Instrument development, measurement and validation. Journal of Cleaner Production 351, 131389. https://doi.org/10.1016/J.JCLEPRO.2022.131389
+
+- Acerbi, F., Taisch, M., 2020. A literature review on circular economy adoption in the manufacturing sector. Journal of Cleaner Production 273, 123086. https://doi.org/10.1016/j.jclepro.2020.123086
+
+
+
+
+# Methodology
+
+
+# Results
+
+
+
+
+## 1. Barriers in TechTransfer in Colombia
+
+The overall purpose of this study is to identify the institutional, organizational, and economic barriers that hinder effective technology transfer from academia to industry within the circular economy of plastics in Colombia
+
+
+## 2. Aligment strategies academic - INdustry
+
+## 3. Approaches To develop between Academy  - Industry
+
+
+# Discussion
+
+I would think discussion on 
+
+1. Bussiness models (?): 
+
+- Susur, E., Engwall, M., n.d. A transitions framework for circular business models. Journal of Industrial Ecology n/a. https://doi.org/10.1111/jiec.13363
+- Bertassini, A.C., Zanon, L.G., Azarias, J.G., Gerolam, M.C., Omettoo, A.R., 2020. Circular Business Ecosystem Innovation: a guide for mapping stakeholders, capturing values, and finding new opportunities. Sustainable Production and Consumption. https://doi.org/10.1016/j.spc.2020.12.004
+- Vermunt, D.A., Negro, S.O., Verweij, P.A., Kuppens, D.V., Hekkert, M.P., 2019. Exploring barriers to implementing different circular business models. Journal of Cleaner Production 222, 891–902. https://doi.org/10.1016/J.JCLEPRO.2019.03.052
+- Whalen, K.A., 2019. Three circular business models that extend product value and their contribution to resource efficiency. Journal of Cleaner Production 226, 1128–1137. https://doi.org/10.1016/j.jclepro.2019.03.128
+
+
+
+# Alternatively, use the terminal in VS Code:
+git init
+git add
+git commit -m "Initial commit"
+git remote add origin https://github.com/username/repository.git
+git push -u origin master
